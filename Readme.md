@@ -31,8 +31,5 @@ This is a simple command-line to-do list application.
     pip install -r requirements.txt
     ```
 
-## Usage
-
-Run the application:
-```bash
-python main.py
+## Message for viewer:
+ Feel free to add you creativity to it.
