@@ -32,4 +32,4 @@ This is a simple command-line to-do list application.
     ```
 
 ## Message for viewer:
- Feel free to add you creativity to it.
+ Feel free to add your creativity to it.
